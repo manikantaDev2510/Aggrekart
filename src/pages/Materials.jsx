@@ -78,10 +78,6 @@ export default function Materials() {
                             alt={product.title}
                         />
 
-
-
-
-
                         <div className="p-4 mb-5">
                             <div className="flex justify-between">
                                 <h2 className="text-lg font-semibold h-[48px] leading-tight overflow-hidden text-ellipsis line-clamp-2">
