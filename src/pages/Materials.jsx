@@ -8,7 +8,7 @@ export default function Materials() {
         {
             id: 1,
             image: "data:image/jpeg;base64,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",
-            title: "River Sand (Type A)",
+            title: "River Sand  (Type A)",
             rating: 4.6,
             price: "₹2,500 / ton",
             delivery: "3-5 days",
@@ -35,7 +35,7 @@ export default function Materials() {
         {
             id: 4,
             image: "https://www.aggrekart.com/assets/Cement-sniN0oa1.jpg",
-            title: "OPC Cement (Grade 43)",
+            title: "OPC Cement  (Grade 43)",
             rating: 4.5,
             price: "₹4,500 / ton",
             delivery: "1-3 days",
@@ -58,7 +58,6 @@ export default function Materials() {
         return stars;
     };
 
-
     return (
         <div className="py-10 mt-3">
             <h1 className="text-3xl md:text-4xl font-bold text-center p-6">
@@ -66,37 +65,36 @@ export default function Materials() {
             </h1>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 px-4 pb-6">
-                {products.map((pro) => (
+                {products.map((product) => (
                     <div
-                        key={pro.id}
+                        key={product.id}
                         className="rounded-2xl shadow-md hover:shadow-xl transition bg-white overflow-hidden"
                     >
                         <img
                             className="w-full h-52 object-cover"
-                            src={pro.image}
-                            alt={pro.title}
+                            src={product.image}
+                            alt={product.title}
                         />
 
                         <div className="p-4 mb-5">
                             <div className="flex justify-between">
-                                <h2 className="text-lg font-semibold">{pro.title}</h2>
+                                <h2 className="text-lg font-semibold">{product.title}</h2>
                                 <div className="flex items-center gap-1 mt-1">
-                                    {renderStars(pro.rating)}
+                                    {renderStars(product.rating)}
                                     <span className="text-sm text-gray-600 ml-1">
-                                        {pro.rating.toFixed(1)}
+                                        {product.rating}
                                     </span>
                                 </div>
-
                             </div>
-                            <p className="text-gray-800 font-bold mt-1">{pro.price}</p>
+                            <p className="text-gray-800 font-bold mt-1">{product.price}</p>
                         </div>
 
                         <div className="flex justify-between text-sm text-gray-600 px-4 pb-3">
                             <p className="flex items-center gap-1">
-                                <FaTruck /> {pro.delivery}
+                                <FaTruck /> {product.delivery}
                             </p>
                             <p className="flex items-center gap-1">
-                                <FaLocationDot /> {pro.distance}
+                                <FaLocationDot /> {product.distance}
                             </p>
                         </div>
 
